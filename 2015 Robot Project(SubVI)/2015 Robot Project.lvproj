@@ -133,16 +133,17 @@ AddOutputFilter chunkFilter
 		</Item>
 		<Item Name="Team VIs" Type="Folder">
 			<Item Name="ArmUPandDOWN.vi" Type="VI" URL="../ArmUPandDOWN.vi"/>
+			<Item Name="Auto 1.vi" Type="VI" URL="../Auto 1.vi"/>
+			<Item Name="Auto 2.vi" Type="VI" URL="../Auto 2.vi"/>
+			<Item Name="Auto 3.vi" Type="VI" URL="../Auto 3.vi"/>
+			<Item Name="Auto 4.vi" Type="VI" URL="../Auto 4.vi"/>
 			<Item Name="Drive Threshold and Half.vi" Type="VI" URL="../Drive Threshold and Half.vi"/>
 			<Item Name="Error Concatenation.vi" Type="VI" URL="../Error Concatenation.vi"/>
 			<Item Name="GrabberOPENandCLOSE.vi" Type="VI" URL="../GrabberOPENandCLOSE.vi"/>
+			<Item Name="helpme.vi" Type="VI" URL="../helpme.vi"/>
 			<Item Name="PistonUPandDown.vi" Type="VI" URL="../PistonUPandDown.vi"/>
 			<Item Name="Toggle.vi" Type="VI" URL="../Toggle.vi"/>
 		</Item>
-		<Item Name="Auto 1.vi" Type="VI" URL="../Auto 1.vi"/>
-		<Item Name="Auto 2.vi" Type="VI" URL="../Auto 2.vi"/>
-		<Item Name="Auto 3.vi" Type="VI" URL="../Auto 3.vi"/>
-		<Item Name="helpme.vi" Type="VI" URL="../helpme.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
